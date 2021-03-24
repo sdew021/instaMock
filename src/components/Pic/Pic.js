@@ -1,6 +1,6 @@
 import { Image } from "react-bootstrap";
 
-const pic = require("../../images/ombre.jpg");
+const pic = "https://liveombre.com/images/icon.jpeg";
 const style = {
   margin: 20
 };
